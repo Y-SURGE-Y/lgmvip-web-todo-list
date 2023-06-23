@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+html  {
+  font-size: 62.5%;
+  background-image: url("https://images.pexels.com/photos/8833465/pexels-photo-8833465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background-position: center;*/
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
